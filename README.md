@@ -1,6 +1,6 @@
 ### Привет странник!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+![](/maxwell.gif)  
 
 ## Я Python разработчик
 
@@ -19,4 +19,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=zufar-ik)
+![](https://komarev.com/ghpvc/?username=jalilko05)
